@@ -22,14 +22,14 @@ html {
 }
 
 body {
-    background: #33b4db;
-    color: #4166af;
+    background: #E4E4E4;
+    color: #8b8e94;
     line-height: 24px;
     font-size: 15px
 }
 
 h1, h2, h3, h4, h5, h6 {
-    color: #d68585;
+    color: #000;
     line-height: 1.5
 }
 
@@ -56,7 +56,7 @@ ol, p, ul {
 a {
     -webkit-transition: .3s all;
     transition: .3s all;
-    color: #aebd27
+    color: #FFA33E
 }
 
 a:active, a:focus, a:hover {
@@ -1779,13 +1779,13 @@ section[data-section=menu] {
 }
 
 .probootstrap-heading.dark .secondary-heading {
-    color: #30bef7
+    color: #000
 }
 
 .probootstrap-heading .seperator {
     display: block;
     margin: 0 auto 10px;
-    color: #8a5454;
+    color: #ccc;
     font-weight: 300
 }
 
@@ -1821,7 +1821,7 @@ section[data-section=menu] {
 }
 
 .flexslider .probootstrap-slider-text .sub-heading a {
-    color: #4434a0
+    color: #fff
 }
 
 .flexslider .slides>li {
